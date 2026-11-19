@@ -1,0 +1,6 @@
+{
+  "fixture": "synthetic-local",
+  "principal": "lab-member",
+  "organization": "lab-org",
+  "repository": "bb-coderabbit-lab"
+}
